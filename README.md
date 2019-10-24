@@ -47,4 +47,6 @@
       
     * #### mesinPrinter.js
       menampilkan Jika array perintah berisi true, maka huruf yang memiliki indeks yang sama di array huruf akan dicetak.
+
+* [Tugas-4](Task4)
       
